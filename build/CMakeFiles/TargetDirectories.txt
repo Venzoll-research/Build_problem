@@ -1,0 +1,3 @@
+D:/projects4grade/testBIND/build/CMakeFiles/example.dir
+D:/projects4grade/testBIND/build/CMakeFiles/edit_cache.dir
+D:/projects4grade/testBIND/build/CMakeFiles/rebuild_cache.dir
