@@ -1,4 +1,4 @@
-#include <pybind11/pybind11.h>
+#include <pybind11/pybind11.h> //vs code подчёркивает эту строку
 
 int add(int a, int b) {
     return a + b;
